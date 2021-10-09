@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/harpreet1602/chatbot_design/static/css/main.8fba8184.chunk.css",
-    "main.js": "/harpreet1602/chatbot_design/static/js/main.4eb105ef.chunk.js",
-    "main.js.map": "/harpreet1602/chatbot_design/static/js/main.4eb105ef.chunk.js.map",
-    "runtime-main.js": "/harpreet1602/chatbot_design/static/js/runtime-main.acd16d55.js",
-    "runtime-main.js.map": "/harpreet1602/chatbot_design/static/js/runtime-main.acd16d55.js.map",
-    "static/js/2.e0344267.chunk.js": "/harpreet1602/chatbot_design/static/js/2.e0344267.chunk.js",
-    "static/js/2.e0344267.chunk.js.map": "/harpreet1602/chatbot_design/static/js/2.e0344267.chunk.js.map",
-    "index.html": "/harpreet1602/chatbot_design/index.html",
-    "static/css/main.8fba8184.chunk.css.map": "/harpreet1602/chatbot_design/static/css/main.8fba8184.chunk.css.map",
-    "static/js/2.e0344267.chunk.js.LICENSE.txt": "/harpreet1602/chatbot_design/static/js/2.e0344267.chunk.js.LICENSE.txt"
+    "main.css": "/chatbot_design/static/css/main.8fba8184.chunk.css",
+    "main.js": "/chatbot_design/static/js/main.4eb105ef.chunk.js",
+    "main.js.map": "/chatbot_design/static/js/main.4eb105ef.chunk.js.map",
+    "runtime-main.js": "/chatbot_design/static/js/runtime-main.901987e4.js",
+    "runtime-main.js.map": "/chatbot_design/static/js/runtime-main.901987e4.js.map",
+    "static/js/2.e0344267.chunk.js": "/chatbot_design/static/js/2.e0344267.chunk.js",
+    "static/js/2.e0344267.chunk.js.map": "/chatbot_design/static/js/2.e0344267.chunk.js.map",
+    "index.html": "/chatbot_design/index.html",
+    "static/css/main.8fba8184.chunk.css.map": "/chatbot_design/static/css/main.8fba8184.chunk.css.map",
+    "static/js/2.e0344267.chunk.js.LICENSE.txt": "/chatbot_design/static/js/2.e0344267.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.acd16d55.js",
+    "static/js/runtime-main.901987e4.js",
     "static/js/2.e0344267.chunk.js",
     "static/css/main.8fba8184.chunk.css",
     "static/js/main.4eb105ef.chunk.js"
