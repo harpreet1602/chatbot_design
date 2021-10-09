@@ -1,6 +1,6 @@
 {
   "name": "chatbot",
-  "homepage":"http://harpreet1602.github.io/chatbot_design",
+  "homepage": "http://harpreet1602.github.io/chatbot_design",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,6 +41,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages":"^3.2.3"
-  }
+    "gh-pages": "^3.2.3"
+  },
+  "engines": { "node": "v14.16.0",
+    "npm": "6.14.11"},
 }
