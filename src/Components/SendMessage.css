@@ -1,0 +1,38 @@
+.SendMessage{
+    display:flex;
+    height:15%;
+    width:85%;
+    padding:2%;
+    /* border:1px solid; */
+    position:absolute;
+    left:15%;
+    top:85%;
+}
+
+.tag{
+    height:2.5rem;
+    width:90%;
+    outline:none;
+}
+.send{
+    height:2.5rem;
+    width:8%;
+    /* border:1px solid; */
+    margin-left:2%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7C5CBF;
+    color:white;
+ 
+}
+@media(max-width:587px)
+{
+    
+.tag{
+    width:80%;
+}
+.send{
+    width:3rem;
+}
+}
