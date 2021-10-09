@@ -8,10 +8,10 @@ function Message() {
           </div>
           <div className="text">Inside which HTML element do we put the JavaScript?</div>
           <div className="optioncontainer">
-              <div className="option">scripting</div>
-              <div className="option">script</div>
-              <div className="option">js</div>
-              <div className="option">javascript</div>
+              <div className="option">{"<scripting>"}</div>
+              <div className="option">{"<script>"}</div>
+              <div className="option">{"<js>"}</div>
+              <div className="option">{"<javascript>"}</div>
           </div>
       </div>
     );
